@@ -1,0 +1,123 @@
+[
+    {
+        "id": "202506091456506567",
+        "title": "用 DDN 专线方式接入因特网，不需要的是( 1 分 )",
+        "option": [
+            "路由器",
+            "拨号调制解调器",
+            "静态 IP 地址",
+            "TCP/IP 软件"
+        ],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456808434",
+        "title": "下面哪类命令是 CISCO 限制接口流量的？( 1 分 )",
+        "option": [
+            "RATE-LIMIT",
+            "privilege",
+            "AAA",
+            "LOOPBACK"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456501433",
+        "title": "自治系统边缘路由器的定义是什么(ASBR)？（）( 1 分 )",
+        "option": [
+            "任何 OSPF 路由器连接到外部路由进程",
+            "任何 OSPF 路由器连接到内部路由进程",
+            "任何 OSPF 路由器连接到多个 OSPF areas",
+            "任何 OSPF 路由器连接到单个 OSPF areas"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456286743",
+        "title": "有一个中学获得了 C 类网段的一组 IP 192.168.1.0/24，要求你划分 7 个以上的子网，每个子网主机数不得少于 25 台，请问子网掩码该怎么写？( 1 分 )",
+        "option": [
+            "255.255.255.128",
+            "255.255.255.224",
+            "255.255.255.240",
+            "255.255.240.0"
+        ],
+        "answer": "B",
+        "analysis": ""
+    },
+    {
+        "id": "20250609145656675",
+        "title": "linux 主机中关于以下说法不正确的是（）( 1 分 )",
+        "option": [
+            "PASS_MAX_DAYS 90 是指登陆密码有效期为 90 天",
+            "PASS_WARN_AGE 7 是指登陆密码过期 7 天前提示修改",
+            "FALL_DELAY 10 是指错误登陆限制为 10 次",
+            "SYSLOG_SG_ENAB yes 当限定超级用于组管理日志时使用"
+        ],
+        "answer": "C",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456737925",
+        "title": "自治系统边缘路由器的定义是什么(ASBR)？（）( 1 分 )",
+        "option": [
+            "任何 OSPF 路由器连接到外部路由进程",
+            "任何 OSPF 路由器连接到内部路由进程",
+            "任何 OSPF 路由器连接到多个 OSPF areas",
+            "任何 OSPF 路由器连接到单个 OSPF areas"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456320343",
+        "title": "与另一台机器建立 IPC$会话连接的命令是(单选)( 1 分 )",
+        "option": [
+            "netuser\\192.168.0.1\\IPC$",
+            "netuse\\192.168.0.1\\IPC$user:Administrator/passwd:aaa",
+            "netuser\\192.168.0.1IPC$",
+            "netuse\\192.168.0.1\\IPC$"
+        ],
+        "answer": "",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456899550",
+        "title": "B.ell-LaPadula 模型的出发点是维护系统的（ ），而 B.iB.a 模型与",
+        "option": [
+            "ell-LaPadula 模型完全对立，它修正了 B.ell-LaPadula 模型所忽略的信息的（ ）问题。它们存在共同的缺点:直接绑定主体与客体，授权工作困难( 1 分 )",
+            "保密性可用性",
+            "可用性保密性",
+            "保密性完整性",
+            "完整性保密性"
+        ],
+        "answer": "C",
+        "analysis": ""
+    },
+    {
+        "id": "202506091456955705",
+        "title": "用维吉尼亚法加密下段文字:HOWAREYOU 以 KEY 为密钥，则密文为___( 1分 )",
+        "option": [
+            "RSUKVCISS",
+            "STVLWDJTT",
+            "QRTJUBHRR",
+            "以上都不对"
+        ],
+        "answer": "A",
+        "analysis": ""
+    },
+    {
+        "id": "20250609145687398",
+        "title": "Windows NT 系统文件 Ntoskrnl.exe 是( 1 分 )",
+        "option": [
+            "Windows 图形子系统",
+            "Windows 内核",
+            "Win32 子系统",
+            "Windows 硬件抽象层"
+        ],
+        "answer": "B",
+        "analysis": ""
+    }
+]
