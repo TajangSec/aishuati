@@ -39,8 +39,7 @@ A：netuser\192.168.0.1\IPC$
 B：netuse\192.168.0.1\IPC$user:Administrator/passwd:aaa
 C：netuser\192.168.0.1IPC$
 D：netuse\192.168.0.1\IPC$
-8.B.ell-LaPadula 模型的出发点是维护系统的（ ），而 B.iB.a 模型与
-B.ell-LaPadula 模型完全对立，它修正了 B.ell-LaPadula 模型所忽略的信息的（ ）问题。它们存在共同的缺点:直接绑定主体与客体，授权工作困难( 1 分 )
+8.B.ell-LaPadula 模型的出发点是维护系统的（ ），而 B.iB.a 模型与B.ell-LaPadula 模型完全对立，它修正了 B.ell-LaPadula 模型所忽略的信息的（ ）问题。它们存在共同的缺点:直接绑定主体与客体，授权工作困难( 1 分 )
 A：保密性可用性
 B：可用性保密性
 C：保密性完整性
