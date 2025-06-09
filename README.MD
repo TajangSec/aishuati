@@ -6,6 +6,11 @@ fork自：https://github.com/moke8/aishuati
 
 相关特色，界面，功能可以去源仓库查看
 
+| ![](https://raw.githubusercontent.com/TajangSec/aishuati/refs/heads/master/home.jpg) | ![](https://raw.githubusercontent.com/TajangSec/aishuati/refs/heads/master/timu.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
+
 生成json后，在主目录直接起个http服务就可以刷题，起服务的话，python最简单，直接`python -m http.server`
 
 
