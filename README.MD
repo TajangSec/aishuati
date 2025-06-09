@@ -9,7 +9,6 @@ fork自：https://github.com/moke8/aishuati
 生成json后，在主目录直接起个http服务就可以刷题，起服务的话，python最简单，直接`python -m http.server`
 
 
-
 修复了一些bug，比如题干中包含空格和字母，他会解析错误，把题干部分字母解析到选项里，比如把：
 
 ```
